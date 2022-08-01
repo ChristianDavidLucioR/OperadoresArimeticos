@@ -41,7 +41,7 @@ public class Ejercicio4 {
         System.out.println("\nLa comisión por carros vendidos es de: $"+operacion+
                 "\nCon una venta total de: $"+ventaTotal +
                 "\nUn 5% por el valor de la venta de: $"+extra +
-                "\nAl Vendedor "+vendedor+" se paga el salario de: $"+salarioTotal);
+                "\nAl Vendedor "+vendedor+" se paga el salario de: $"+salarioTotal +" Dolares");
         System.out.println("------------------------------------------------------------------------------------------");
 
     }
